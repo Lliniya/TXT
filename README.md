@@ -7,7 +7,7 @@ Homework
 
 2. Клонировать репозиторий TXT на локальный компьютер.
 
-	`git clone https://github.com/Lliniya/TXT.git
+	`git clone https://github.com/Lliniya/TXT.git`
 
 3. Внутри локального TXT создать файл “new.txt”.
 	```
